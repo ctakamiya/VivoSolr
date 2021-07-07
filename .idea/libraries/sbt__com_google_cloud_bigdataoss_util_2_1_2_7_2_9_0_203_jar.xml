@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.cloud.bigdataoss:util:2.1.2.7.2.9.0-203:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.cloud.bigdataoss/util/jars/util-2.1.2.7.2.9.0-203.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

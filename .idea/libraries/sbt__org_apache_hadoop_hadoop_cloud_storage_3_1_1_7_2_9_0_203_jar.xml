@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.hadoop:hadoop-cloud-storage:3.1.1.7.2.9.0-203:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-cloud-storage/jars/hadoop-cloud-storage-3.1.1.7.2.9.0-203.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-cloud-storage/srcs/hadoop-cloud-storage-3.1.1.7.2.9.0-203-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

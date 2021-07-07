@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: net.shibboleth.tool:xmlsectool:2.0.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.shibboleth.tool/xmlsectool/jars/xmlsectool-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.shibboleth.tool/xmlsectool/srcs/xmlsectool-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

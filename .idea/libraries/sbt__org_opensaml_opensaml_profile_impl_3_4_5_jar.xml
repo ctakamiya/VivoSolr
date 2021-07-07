@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.opensaml:opensaml-profile-impl:3.4.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.opensaml/opensaml-profile-impl/jars/opensaml-profile-impl-3.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.opensaml/opensaml-profile-impl/srcs/opensaml-profile-impl-3.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

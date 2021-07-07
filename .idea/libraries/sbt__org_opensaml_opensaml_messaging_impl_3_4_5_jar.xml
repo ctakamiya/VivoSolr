@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.opensaml:opensaml-messaging-impl:3.4.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.opensaml/opensaml-messaging-impl/jars/opensaml-messaging-impl-3.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.opensaml/opensaml-messaging-impl/srcs/opensaml-messaging-impl-3.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

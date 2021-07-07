@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.lucene:lucene-analyzers-phonetic:8.4.1.7.2.9.0-203:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.lucene/lucene-analyzers-phonetic/jars/lucene-analyzers-phonetic-8.4.1.7.2.9.0-203.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.lucene/lucene-analyzers-phonetic/srcs/lucene-analyzers-phonetic-8.4.1.7.2.9.0-203-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

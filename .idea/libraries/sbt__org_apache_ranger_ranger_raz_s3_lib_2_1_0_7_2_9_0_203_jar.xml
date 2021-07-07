@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.ranger:ranger-raz-s3-lib:2.1.0.7.2.9.0-203:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.ranger/ranger-raz-s3-lib/jars/ranger-raz-s3-lib-2.1.0.7.2.9.0-203.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

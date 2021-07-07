@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.sgr:s2-geometry-library-java:1.0.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.sgr/s2-geometry-library-java/jars/s2-geometry-library-java-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.sgr/s2-geometry-library-java/srcs/s2-geometry-library-java-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

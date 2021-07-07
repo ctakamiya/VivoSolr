@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.eclipse.jetty:jetty-alpn-java-server:9.4.31.v20200723:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-alpn-java-server/jars/jetty-alpn-java-server-9.4.31.v20200723.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-alpn-java-server/srcs/jetty-alpn-java-server-9.4.31.v20200723-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
